@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 6e91a58454b524683b5af5ac9af2f977
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7089342839436009954
+    second: UPMap_planet_progress_field
+  - first:
+      213: 3673339578802255682
+    second: Locked
+  - first:
+      213: -8218637289339673263
+    second: UPMap_planets_1
+  - first:
+      213: 6938153434290252106
+    second: UPMap_4
+  - first:
+      213: 1428106441313291659
+    second: UPMap_5
+  - first:
+      213: 3623984720384351265
+    second: UPMap_6
+  - first:
+      213: -6124929086255811043
+    second: UPMap_9
+  - first:
+      213: 8214246734502546847
+    second: UPMap_10
+  - first:
+      213: 3609073434070032017
+    second: UPMap_11
+  - first:
+      213: 2832306491032952311
+    second: UPMap_12
+  - first:
+      213: 7731537458016051082
+    second: UPMap_13
+  - first:
+      213: -8942683381022184356
+    second: UPMap_14
+  - first:
+      213: -3526351992408047684
+    second: UPMap_15
+  - first:
+      213: -3426529070516919380
+    second: UPMap_16
+  - first:
+      213: -5448431140421043919
+    second: UPMap_17
+  - first:
+      213: 2411230638974858230
+    second: UPMap_20
+  - first:
+      213: 2748543489943096148
+    second: UPMap_21
+  - first:
+      213: 1086898641893044695
+    second: UPMap_22
+  - first:
+      213: 3036604392976480978
+    second: UPMap_23
+  - first:
+      213: -4342718517914520362
+    second: UPMap_24
+  - first:
+      213: -5971772679349337439
+    second: UPMap_25
+  - first:
+      213: -2312510236388357141
+    second: UPMap_26
+  - first:
+      213: 6482762827826867717
+    second: UPMap_27
+  - first:
+      213: 6695193381688701236
+    second: UPMap_28
+  - first:
+      213: -5402881562345681327
+    second: UPMap_29
+  - first:
+      213: -8667331312579690181
+    second: UPMap_30
+  - first:
+      213: 8077261972408774375
+    second: UPMap_31
+  - first:
+      213: -587769599290121953
+    second: UPMap_32
+  - first:
+      213: -2874084383595750313
+    second: UPMap_33
+  - first:
+      213: 9047584492961910996
+    second: UPMap_34
+  - first:
+      213: -4761180181917009368
+    second: UPMap_35
+  - first:
+      213: -3900364546465028205
+    second: UPMap_36
+  - first:
+      213: -9202763845432443423
+    second: UPMap_37
+  - first:
+      213: 2549319659988332416
+    second: UPMap_38
+  - first:
+      213: -7944661117618714698
+    second: UPMap_39
+  - first:
+      213: 1754790394086114874
+    second: UPMap_40
+  - first:
+      213: -4868031940244577454
+    second: UPMap_41
+  - first:
+      213: -3522444560444892824
+    second: UPMap_42
+  - first:
+      213: -822116410650825598
+    second: UPMap_44
+  - first:
+      213: -4789452962995341332
+    second: UPMap_46
+  - first:
+      213: -4824741680017492971
+    second: UPMap_47
+  - first:
+      213: 7793900989290412764
+    second: UPMap_48
+  - first:
+      213: 8269935444107646839
+    second: UPMap_Monet_field
+  - first:
+      213: -1222701252877203161
+    second: UPMap_arrow
+  - first:
+      213: 2789653494391579694
+    second: UPMap_combo_field
+  - first:
+      213: -3400975390307810192
+    second: UPMap_button_field
+  - first:
+      213: 1100314040907934354
+    second: UPMap_start_field
+  - first:
+      213: 6189634358379441061
+    second: UPMap_Ship_Icon
+  - first:
+      213: -3609043877578289693
+    second: UPMap_blik_1
+  - first:
+      213: 6905385171517291738
+    second: UPMap_circle
+  - first:
+      213: 3445517286938613790
+    second: UPMap_back_button
+  - first:
+      213: 6905385171517291738
+    second: UPMap_WhiteRect
+  - first:
+      213: 7089342839436009954
+    second: UPMap_galaxy
+  - first:
+      213: -6215572447656183937
+    second: UPMap_way_arrows
+  - first:
+      213: 2928064825914613191
+    second: UPMap_Left_Arrow
+  - first:
+      213: 4969594970145242593
+    second: UPMap_Right_Arrow
+  - first:
+      213: -980352035883777154
+    second: UPMap_Oil
+  - first:
+      213: -2692556624970310927
+    second: UPMap_ejngine_fire
+  - first:
+      213: 6905385171517291738
+    second: UPMap_0
+  - first:
+      213: 7089342839436009954
+    second: UPMap_planets_2
+  - first:
+      213: 3673339578802255682
+    second: UPMap_planets_0
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UPMap_Monet_field
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 799
+        width: 303
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364d82531c0c4d34b4ba55dc4490a3a
+      internalID: 8269935444107646839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_arrow
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 22
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e79672d0a0f42c794778e3159cc037
+      internalID: -1222701252877203161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_combo_field
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 722
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef7a0cb4b5c24c038b6622ddffd9364
+      internalID: 2789653494391579694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_button_field
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 651
+        width: 271
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af8af9c6b7744ad48441296eda46aa8
+      internalID: -3400975390307810192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_start_field
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 483
+        width: 471
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d108eb688f4c0499ca32cc30730ac
+      internalID: 1100314040907934354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_Ship_Icon
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 65
+        width: 152
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091e381a1bda4b6a924dde9a1c56c71
+      internalID: 6189634358379441061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_blik_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 253
+        width: 144
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c87c9fa36e34741829679eb723e4ee
+      internalID: -3609043877578289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_planet_progress_field
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 1024
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80573d7424a4148be537ed6ed3dd0d
+      internalID: 7089342839436009954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_circle
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097dd46ae6a72451a9ccf204c173f7cd
+      internalID: 6905385171517291738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_back_button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 172
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052beda1b19648b480a23de2472ee5e
+      internalID: 3445517286938613790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_WhiteRect
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 827
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87fd28b3058bd40a7afe196366bbce
+      internalID: 6905385171517291738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 685
+        width: 151
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bac4efc1be3cf44a87d7debe82eb85
+      internalID: 3673339578802255682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_way_arrows
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 379
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96232d09dc762e748a9c6fbaa5454ab3
+      internalID: -6215572447656183937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_Left_Arrow
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 279
+        width: 113
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f56a5b11543b4da302ccb2b8cedb9
+      internalID: 2928064825914613191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_Right_Arrow
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 278
+        width: 114
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b7bf0c652e8e4188d0726278150d0
+      internalID: 4969594970145242593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_Oil
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 237
+        width: 158
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5050ea69e3d3b4696ce28f47fc2f60
+      internalID: -980352035883777154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_ejngine_fire
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a543aef04e08d4987811bc8fda7c73
+      internalID: -2692556624970310927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_planets_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 439
+        width: 197
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4782223, y: 0.47833306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44366c7e8391d1145ab872c25263b648
+      internalID: 7089342839436009954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_planets_0
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 8
+        width: 197
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5026395, y: 0.4829257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93b67d8012be644a7ed676149d966a
+      internalID: 3673339578802255682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_planets_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 223
+        width: 197
+        height: 203
+      alignment: 9
+      pivot: {x: 0.47637165, y: 0.5206026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f4e3742b606d4083dac7547cdcebb
+      internalID: -8218637289339673263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPMap_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 518
+        width: 162
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 21, y: 11, z: 23, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1c6bb8d0c8614d8d843db52660e85
+      internalID: 6905385171517291738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb6b3eaa02cf443f784d025549bc64bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
